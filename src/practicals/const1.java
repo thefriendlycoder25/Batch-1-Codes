@@ -18,6 +18,8 @@ class ext{
 public class const1 {
     public static void main(String[] args) {
        ext obj1 = new ext(5,10);
+	ext obj1 = new ext(5,10);
+
 
 
     }
